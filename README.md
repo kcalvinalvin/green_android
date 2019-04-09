@@ -1,6 +1,6 @@
-# Blockstream Greener - A native bitcoin wallet for Android and [iOS](https://github.com/Blockstream/green_ios)
+# Greener - A native bitcoin wallet for Android and [iOS](https://github.com/Blockstream/green_ios)
 
-## It's literally Green but with satoshis support for Bitcoin denominations
+## It's literally Blockstream Green but with satoshis support for Bitcoin denominations
 
 Build status: [![Build Status](https://travis-ci.org/Blockstream/green_android.png?branch=master)](https://travis-ci.org/Blockstream/green_android)
 
